@@ -1,5 +1,5 @@
 {
-  "version": "0.0.0",
+  "version": "1.0.0",
   "keywords": [],
   "type": "commonjs",
   "exports": {
@@ -42,7 +42,7 @@
     "displayName": "Email Templates",
     "description": ""
   },
-  "name": "email-templates",
+  "name": "strapi-plugin-email-templates",
   "description": "",
   "license": "MIT",
   "author": "vaibhav <kalalvaibhav@gmail.com>"
